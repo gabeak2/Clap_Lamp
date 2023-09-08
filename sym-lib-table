@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name clap_detector-rescue)(type Legacy)(uri ${KIPRJMOD}/clap_detector-rescue.lib)(options "")(descr ""))
+)
